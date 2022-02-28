@@ -1,5 +1,5 @@
 # Non_Optimized_Puzzle_Solver
-![Cover](https://github.com/Jean-Lcs/Non_Optimized_Puzzle_Solver/blob/main/Capture%20d’écran%202022-02-28%20à%2016.21.32.jpg)
+![Cover](https://github.com/Jean-Lcs/Non_Optimized_Puzzle_Solver/blob/main/RM_pic.jpg)
 
 The objective of this project is to solve a puzzle, following these steps
   -  Take any initial image
